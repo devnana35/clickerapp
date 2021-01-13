@@ -1,4 +1,5 @@
 # clickerapp
+tutorial link : https://www.youtube.com/watch?v=Ls1WfzOrKkc
 
 ## Project setup
 ```
